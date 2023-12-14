@@ -1,6 +1,6 @@
 # Optimise Anything: UROP 2023
 
-## Hello, the code in this repo is almost the same as the previous one, except:
+Hello, the code in this repo is almost the same as the previous one, except:
 In the file "log-definitions.py", line 84, I changed it to       
 c.execute(query, (objectiveNames[i], objectiveBounds[2*i], objectiveBounds[2*i+1], objectiveMinMax[I]))
 Log-definitions.py can run properly also the parameters can be posted into this Python file from "confirm-definitions.php" normally, at least on my server.
