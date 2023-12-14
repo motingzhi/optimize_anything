@@ -1,0 +1,80 @@
+Content-Type: application/json
+
+{
+ "success": true,
+ "message": "\"success\""
+}
+Hello from Python!
+FieldStorage(None, None, [MiniFieldStorage('parameter-names', 'Destination distance (km),Number of days'), MiniFieldStorage('parameter-bounds', '500,3000,3,14'), MiniFieldStorage('objective-names', 'Cost ($),Satisfaction (%)'), MiniFieldStorage('objective-bounds', '100,1000,0,100'), MiniFieldStorage('objective-min-max', 'minimise,maximise')])
+Content-Type: application/json
+
+{
+ "success": true,
+ "message": "\"success\""
+}
+Hello from Python!
+FieldStorage(None, None, [MiniFieldStorage('parameter-names', 'Destination distance (km),Number of days'), MiniFieldStorage('parameter-bounds', '500,3000,3,14'), MiniFieldStorage('objective-names', 'Cost ($),Satisfaction (%)'), MiniFieldStorage('objective-bounds', '100,1000,0,100'), MiniFieldStorage('objective-min-max', 'minimise,maximise')])
+Content-Type: application/json
+
+{
+ "success": true,
+ "message": "\"success\""
+}
+Hello from Python!
+FieldStorage(None, None, [MiniFieldStorage('parameter-names', 'Destination distance (km),Number of days'), MiniFieldStorage('parameter-bounds', '500,3000,3,14'), MiniFieldStorage('objective-names', 'Cost ($),Satisfaction (%)'), MiniFieldStorage('objective-bounds', '100,1000,0,100'), MiniFieldStorage('objective-min-max', 'minimise,maximise')])
+Content-Type: application/json
+
+{
+ "success": true,
+ "message": "\"success\""
+}
+Hello from Python!
+FieldStorage(None, None, [MiniFieldStorage('parameter-names', 'Destination distance (km),Number of days'), MiniFieldStorage('parameter-bounds', '500,3000,3,14'), MiniFieldStorage('objective-names', 'Cost ($),Satisfaction (%)'), MiniFieldStorage('objective-bounds', '100,1000,0,100'), MiniFieldStorage('objective-min-max', 'minimise,maximise')])
+Content-Type: application/json
+
+{
+ "success": true,
+ "message": "Form values not defined."
+}
+Hello from Python!
+FieldStorage(None, None, [])
+Content-Type: application/json
+
+{
+ "success": true,
+ "message": "\"success\""
+}
+Hello from Python!
+FieldStorage(None, None, [MiniFieldStorage('parameter-names', 'Destination distance (km),Number of days'), MiniFieldStorage('parameter-bounds', '500,3000,3,14'), MiniFieldStorage('objective-names', 'Cost ($),Satisfaction (%)'), MiniFieldStorage('objective-bounds', '100,1000,0,100'), MiniFieldStorage('objective-min-max', 'minimise,maximise')])
+Content-Type: application/json
+
+{
+ "success": true,
+ "message": "\"success\""
+}
+Hello from Python!
+FieldStorage(None, None, [MiniFieldStorage('parameter-names', 'Destination distance (km),Number of days'), MiniFieldStorage('parameter-bounds', '500,3000,3,14'), MiniFieldStorage('objective-names', 'Cost ($),Satisfaction (%)'), MiniFieldStorage('objective-bounds', '100,1000,0,100'), MiniFieldStorage('objective-min-max', 'minimise,maximise')])
+Content-Type: application/json
+
+{
+ "success": true,
+ "message": "\"success\""
+}
+Hello from Python!
+FieldStorage(None, None, [MiniFieldStorage('parameter-names', 'Destination distance (km),Number of days'), MiniFieldStorage('parameter-bounds', '500,3000,3,14'), MiniFieldStorage('objective-names', 'Cost ($),Satisfaction (%)'), MiniFieldStorage('objective-bounds', '100,1000,0,100'), MiniFieldStorage('objective-min-max', 'minimise,maximise')])
+Content-Type: application/json
+
+{
+ "success": true,
+ "message": "\"success\""
+}
+Hello from Python!
+FieldStorage(None, None, [MiniFieldStorage('parameter-names', 'Destination distance (km),Number of days'), MiniFieldStorage('parameter-bounds', '500,3000,3,14'), MiniFieldStorage('objective-names', 'Cost ($),Satisfaction (%)'), MiniFieldStorage('objective-bounds', '100,1000,0,100'), MiniFieldStorage('objective-min-max', 'minimise,maximise')])
+Content-Type: application/json
+
+{
+ "success": true,
+ "message": "\"success\""
+}
+Hello from Python!
+FieldStorage(None, None, [MiniFieldStorage('parameter-names', 'Destination distance (km),Number of days'), MiniFieldStorage('parameter-bounds', '500,3000,3,14'), MiniFieldStorage('objective-names', 'Cost ($),Satisfaction (%)'), MiniFieldStorage('objective-bounds', '100,1000,0,100'), MiniFieldStorage('objective-min-max', 'minimise,maximise')])
